@@ -1,2 +1,2 @@
 # Cloud_Native_0427
-just a pratice for version control
+Just a pratice for version control, Uber_eat.png contains user stories and acceptance criteria
