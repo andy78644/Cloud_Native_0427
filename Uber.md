@@ -103,3 +103,32 @@
 
 ### Then
 乘客提交司機評價
+
+## User story
+想要搭乘較高等級的車子
+
+## Acceptance criteria
+### Given
+乘客在選取目的與車子的page
+
+### When
+車子的選項有不同等級的按鈕
+
+### Then
+選擇後地圖上僅會顯示該等級車子以供選取
+
+
+## User story
+希望可以選擇評價優良的司機
+
+## Acceptance criteria
+### Given
+在進入到選擇車子的地圖上
+
+### When
+在點選車子看到車子的資訊
+
+### Then
+資訊內會包含司機本身的評價以供乘客參考選擇
+
+
